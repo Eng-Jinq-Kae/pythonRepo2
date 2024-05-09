@@ -14,7 +14,11 @@ print('Insert your digit 4: ')
 x_inp_4 = input()
 x4 = int(x_inp_4)
 
-c1 = x1 + x2 + x3 + x4
+print('Insert your digit 5: ')
+x_inp_5 = input()
+x5 = int(x_inp_5)
+
+c1 = x1 + x2 + x3 + x4 + x5
 print('Total Sum: ', c1 )
 
 c2 = x1 * x2
