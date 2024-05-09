@@ -6,7 +6,11 @@ print('Insert your digit 2: ')
 x_inp_2 = input()
 x2 = int(x_inp_2)
 
-c1 = x1 + x2
+print('Insert your digit 3: ')
+x_inp_3 = input()
+x3 = int(x_inp_3)
+
+c1 = x1 + x2 + x3
 print('Total Sum: ', c1 )
 
 c2 = x1 * x2
