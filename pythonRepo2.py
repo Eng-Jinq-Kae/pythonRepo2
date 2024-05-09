@@ -8,3 +8,6 @@ x2 = int(x_inp_2)
 
 c1 = x1 + x2
 print('Total Sum: ', c1 )
+
+c2 = x1 * x2
+print('Total Multiplication: ', c2)
