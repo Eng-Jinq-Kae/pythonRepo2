@@ -23,3 +23,5 @@ print('Total Sum: ', c1 )
 
 c2 = x1 * x2
 print('Total Multiplication: ', c2)
+
+print("No c4, c4 is a bomb.")
